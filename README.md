@@ -4,7 +4,7 @@
 9-months postgraduate diploma in AI at [*Institute of Information Technology "ITI"*](https://www.iti.gov.eg/iti/programs/details/PTP-AI)<br>
 
 
-[![Linkedin: omar-safwat](https://img.shields.io/badge/-omar-safwat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-safwat-07a65510b/)](https://www.linkedin.com/in/omar-safwat-07a65510b/)
+[![Linkedin: omar-safwat](https://img.shields.io/badge/-omarsafwat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-safwat-07a65510b/)](https://www.linkedin.com/in/omar-safwat-07a65510b/)
 <!--
 **Omar-Safwat/Omar-Safwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

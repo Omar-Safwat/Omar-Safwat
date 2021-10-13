@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/omar-safwat-07a65510b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 ## Things I code with
-<h3>Programming languages</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -51,11 +50,11 @@ Here are some ideas to get you started:
 
 ### R
 * [Prediction model built on “Qualitative Activity Recognition of Weight Lifting Exercises”.](https://omar-safwat.github.io/PracticalMachineLearning/)
+* [Health and Economic Consequences of Severe Weather Events](https://rpubs.com/OSafwat/703183)
+* [Analyzing data obtained from Personal Activity Monitoring Devices.](https://rpubs.com/OSafwat/719235)
 
 ### Java
 * [Java WebApp using JavaEE](https://github.com/Omar-Safwat/Java_WebApp)
 
 ### C++
 * [C++/C projects](https://github.com/Omar-Safwat/CPP-Projects)
-* [Health and Economic Consequences of Severe Weather Events](https://rpubs.com/OSafwat/703183)
-* [Analyzing data obtained from Personal Activity Monitoring Devices.](https://rpubs.com/OSafwat/719235)

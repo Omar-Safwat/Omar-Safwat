@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Omar
 
-## Current working on
+## Currently working on
 9-months postgraduate diploma in AI at [*Institute of Information Technology "ITI"*](https://www.iti.gov.eg/iti/programs/details/PTP-AI)<br>
 3D Hand Pose Estimation using RGB-D with [VRapeutic, Inc](https://myvrapeutic.com/)<br>
 

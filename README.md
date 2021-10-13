@@ -37,16 +37,25 @@ Here are some ideas to get you started:
 -->
 
 ## Areas of interest
-
-
--  🔭 I’m currently working on "3D Hand Pose Estimation using RGB-D"
--  🌱 I’m currently doing my Postgraduate diploma in AI
+* Machine Learning
+* Deep Learning
+* Data Science and Analytics
 
 ## Portfolio
 ### Python
 
 * [Data Science with python notebooks](https://github.com/Omar-Safwat/DataScience_notebooks)
-* [Database management](https://github.com/Omar-Safwat/sql-samples)
-* 
-### R
 
+### Database management
+* [SQL](https://github.com/Omar-Safwat/sql-samples)
+
+### R
+* [Prediction model built on “Qualitative Activity Recognition of Weight Lifting Exercises”.](https://omar-safwat.github.io/PracticalMachineLearning/)
+
+### Java
+* [Java WebApp using JavaEE](https://github.com/Omar-Safwat/Java_WebApp)
+
+### C++
+* [C++/C projects](https://github.com/Omar-Safwat/CPP-Projects)
+* [Health and Economic Consequences of Severe Weather Events](https://rpubs.com/OSafwat/703183)
+* [Analyzing data obtained from Personal Activity Monitoring Devices.](https://rpubs.com/OSafwat/719235)

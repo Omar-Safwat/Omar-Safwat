@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 
 * [Data Science with python notebooks](https://github.com/Omar-Safwat/DataScience_notebooks)
 
+### PySpark
+* [PySpark Samples](https://github.com/Omar-Safwat/Spark_work_samples)
+
 ### Database management
 * [SQL](https://github.com/Omar-Safwat/sql-samples)
 

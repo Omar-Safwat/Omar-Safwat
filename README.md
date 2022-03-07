@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Omar
 
 ## Currently working on
-* Machine Learning Engineer at [databoots](https://dataroots.io/)
+* Machine Learning Engineer at [dataroots](https://dataroots.io/)
 
 ## Where to find me
 <a href="https://www.linkedin.com/in/omar-safwat-07a65510b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 

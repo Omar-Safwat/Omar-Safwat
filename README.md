@@ -15,7 +15,7 @@
 </p>
 <h3>Database management</h3>
 <p>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
  
@@ -36,21 +36,19 @@ Here are some ideas to get you started:
 
 ## Areas of interest
 * Machine Learning
-* Deep Learning
-* Data Science and Analytics
+* AI Software Development
+* Data Engineering and Cloud Development
 
 ## Portfolio
-### Python
-
-* [Data Science with python notebooks](https://github.com/Omar-Safwat/DataScience_notebooks)
-
-### PySpark
+### Data Engineering
+* [ETL with AWS Redshift](https://github.com/Omar-Safwat/sparkify-etl-with-redshift)
+* [Datalake ETL with AWS GLUE](https://github.com/Omar-Safwat/udacity-project-stedi)
+* [ETL with airflow](https://github.com/Omar-Safwat/sparkify-airflow-etl)
+* [SQL](https://github.com/Omar-Safwat/sql-samples)
 * [PySpark Samples](https://github.com/Omar-Safwat/Spark_work_samples)
 
-### Database management
-* [SQL](https://github.com/Omar-Safwat/sql-samples)
-
-### R
+### Data Science
+* [Data Science with python notebooks](https://github.com/Omar-Safwat/DataScience_notebooks)
 * [Prediction model built on “Qualitative Activity Recognition of Weight Lifting Exercises”.](https://omar-safwat.github.io/PracticalMachineLearning/)
 * [Health and Economic Consequences of Severe Weather Events](https://rpubs.com/OSafwat/703183)
 * [Analyzing data obtained from Personal Activity Monitoring Devices.](https://rpubs.com/OSafwat/719235)

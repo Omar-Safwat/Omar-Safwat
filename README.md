@@ -38,23 +38,3 @@ Here are some ideas to get you started:
 * Machine Learning
 * AI Software Development
 * Data Engineering and Cloud Development
-
-## Portfolio
-### Data Engineering
-* [ETL with AWS Redshift](https://github.com/Omar-Safwat/sparkify-etl-with-redshift)
-* [Datalake ETL with AWS GLUE](https://github.com/Omar-Safwat/udacity-project-stedi)
-* [ETL with airflow](https://github.com/Omar-Safwat/sparkify-airflow-etl)
-* [SQL](https://github.com/Omar-Safwat/sql-samples)
-* [PySpark Samples](https://github.com/Omar-Safwat/Spark_work_samples)
-
-### Data Science
-* [Data Science with python notebooks](https://github.com/Omar-Safwat/DataScience_notebooks)
-* [Prediction model built on “Qualitative Activity Recognition of Weight Lifting Exercises”.](https://omar-safwat.github.io/PracticalMachineLearning/)
-* [Health and Economic Consequences of Severe Weather Events](https://rpubs.com/OSafwat/703183)
-* [Analyzing data obtained from Personal Activity Monitoring Devices.](https://rpubs.com/OSafwat/719235)
-
-### Java
-* [Java WebApp using JavaEE](https://github.com/Omar-Safwat/Java_WebApp)
-
-### C++
-* [C++/C projects](https://github.com/Omar-Safwat/CPP-Projects)
